@@ -1,9 +1,0 @@
-openai
-requests
-httpx
-tenacity
-tqdm
-arxiv
-PyMuPDF
-json-repair
-datasets
