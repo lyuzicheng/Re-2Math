@@ -1,4 +1,4 @@
-# AI4Math Benchmark Public Release
+# Re$^2$Math
 
 This directory is the cleaned public-release layer for the AI4Math benchmark.
 It is intended to be published as an anonymous GitHub repository root.
